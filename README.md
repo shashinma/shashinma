@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## About me
-- 🧙🏻‍♂️ Voodoo with percussion built in. 🪘
-- 👨🏻‍🎓 I'm currently studying at the university.
+- 👹 Voodoo with percussion built in. 🪘
+- 🧙🏻‍♂️ I'm currently studying at the University at the Faculty of Accult Magic.
 - 🧑🏼‍💻 I'm starting to develop a startup project  **[@CyberTechLaboratory](https://github.com/CyberTechLaboratory "CyberTechLaboratory")** together with [@HypePizza](https://github.com/HypePizza "HypePizza").
 
 ⠀⠀⠀📩 **Get in touch:**
