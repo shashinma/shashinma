@@ -23,7 +23,8 @@ Here are some ideas to get you started:
 </br></br>
 
 ## Some of my GitHub stats
-[<img src="https://raw.githubusercontent.com/shashinma/shashinma/master/source/laptopman.png" width="205px">](https://github.com/shashinma) ⠀⠀[![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=shashinma&show_icons=true&include_all_commits=true&count_private=true&theme=buefy&hide_border=true)](https://github.com/shashinma?tab=repositories)
+[<img src="https://raw.githubusercontent.com/shashinma/shashinma/master/source/laptopman.png" width="205px">](https://github.com/shashinma) 
+[![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=shashinma&show_icons=true&include_all_commits=true&count_private=true&theme=buefy&hide_border=true&hide=&hide_title=false&card_width=1)](https://github.com/shashinma?tab=repositories)[![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=shashinma&layout=compact&hide_border=true&card_width=)](https://github.com/shashinma/github-readme-stats)
 </br>
 </br>
 
@@ -31,9 +32,13 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/shashinma/seb-mac-cracked">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shashinma&repo=seb-mac-cracked&theme=buefy&show_owner=false" />
-</a>
-<a href="https://github.com/shashinma/seb-win-refactoring-cracked">
+</a>⠀<a href="https://github.com/shashinma/seb-win-refactoring-cracked">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shashinma&repo=seb-win-refactoring-cracked&theme=buefy&show_owner=false" />
+</a>
+</br>
+</br>
+<a href="https://github.com/shashinma/VoteApp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shashinma&repo=voteapp&theme=buefy&show_owner=false" />
 </a>
 </br>
 </br>
