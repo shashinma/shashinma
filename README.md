@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 </br></br>
 
 ## Some of my GitHub stats
-[![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=shashinma&show_icons=true&include_all_commits=true&count_private=true&theme=buefy&hide_border=true&hide=&hide_title=false&card_width=1)](https://github.com/shashinma?tab=repositories)[![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=shashinma&layout=compact&hide_border=true&card_width=)](https://github.com/shashinma/github-readme-stats)
+[![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=shashinma&show_icons=true&include_all_commits=true&count_private=true&theme=buefy&hide_border=true&hide=&hide_title=false&card_width=1)](https://github.com/shashinma?tab=repositories)[![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=shashinma&layout=compact&hide_border=true&theme=buefy&card_width=)](https://github.com/shashinma/github-readme-stats)
 </br>
 </br>
 
