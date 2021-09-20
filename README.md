@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/shashinma/seb-mac-cracked">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shashinma&repo=seb-mac-cracked&theme=buefy&show_owner=false" />
-</a>⠀⠀⠀<a href="https://github.com/shashinma/seb-win-refactoring-cracked">
+</a>⠀⠀⠀⠀<a href="https://github.com/shashinma/seb-win-refactoring-cracked">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shashinma&repo=seb-win-refactoring-cracked&theme=buefy&show_owner=false" />
 </a>
 </br>
