@@ -23,8 +23,7 @@ Here are some ideas to get you started:
 </br>
 
 ## Some of my GitHub stats [<img src="https://raw.githubusercontent.com/shashinma/shashinma/master/source/laptopman.png" width="30px">](https://github.com/shashinma) ⠀
-<a href="https://github.com/shashinma?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shashinma&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Michael's github stats" /></a><a href="https://github.com/shashinma?tab=repositories"><a href="https://github.com/shashinma?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashinma&langs_count=8&layout=compact&hide_border=true&theme=buefy&hide=" />
+<a href="https://github.com/shashinma?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shashinma&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Michael's github stats" /></a><a href="https://github.com/shashinma?tab=repositories"><a href="https://github.com/shashinma?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashinma&langs_count=8&layout=compact&hide_border=true&theme=buefy&hide=" />
 </a>
 </br>
 
