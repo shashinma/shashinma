@@ -40,8 +40,8 @@ Here are some ideas to get you started:
     </br>
     </br>
     <a href="https://github.com/shashinma/VoteApp">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shashinma&repo=VoteApp&theme=buefy&show_owner=false&" /><a href="https://github.com/shashinma/p2p-messenger"> ⠀
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shashinma&repo=p2p-messenger&theme=buefy&show_owner=false" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shashinma&repo=VoteApp&theme=buefy&show_owner=false&" /><a href="https://github.com/shashinma/CamAI"> ⠀
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shashinma&repo=CamAI&theme=buefy&show_owner=false" />
     </a>
   </br>
 </details>
