@@ -1,4 +1,4 @@
-# Hello there, I'm Michael! <img src="https://raw.githubusercontent.com/shashinma/shashinma/master/source/wave.gif" width="30px">
+# Hello there, I'm Michael! <a href="https://github.com/shashinma"><img src="https://raw.githubusercontent.com/shashinma/shashinma/master/source/wave.gif" width="30px">
 <!--
 **shashinma/shashinma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
