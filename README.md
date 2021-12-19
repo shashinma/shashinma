@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ⠀[<img src='https://github.com/shashinma/shashinma/blob/main/source/GitHub_Mark.png' alt='github' height='35'>](https://github.com/shashinma)⠀[<img src='https://github.com/shashinma/shashinma/blob/main/source/telegram.png' alt='telegram' height='35'>](https://t.me/shashinma)⠀[<img src='https://github.com/shashinma/shashinma/blob/main/source/icloud.png' alt='icloud' height='35'>](mailto:shashinma@icloud.com)⠀[<img src='https://github.com/shashinma/shashinma/blob/main/source/vk.png' alt='vk' height='35'>](https://vk.com/shashinma)
 </br>
 
-## Some of my GitHub stats [<img src="https://raw.githubusercontent.com/shashinma/shashinma/master/source/laptopman.png" width="30px">](https://github.com/shashinma) ⠀
+## Some of my GitHub stats  ⠀
 <a href="https://github.com/shashinma?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shashinma&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Michael's github stats" /></a><a href="https://github.com/shashinma?tab=repositories"><a href="https://github.com/shashinma?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashinma&langs_count=8&layout=compact&hide_border=true&theme=buefy&hide=" />
 </a>
 </br>
