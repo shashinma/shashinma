@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🧑🏼‍💻 I'm starting to develop a startup project  **[@CyberTechLaboratory](https://github.com/CyberTechLaboratory "CyberTechLaboratory")** together with [@HypePizza](https://github.com/HypePizza "HypePizza").
 
 ⠀⠀⠀📩 **Get in touch:**
-⠀[<img src='https://github.com/shashinma/shashinma/blob/main/source/GitHub_Mark.png' alt='github' height='35'>](https://github.com/shashinma)⠀[<img src='https://github.com/shashinma/shashinma/blob/main/source/telegram.png' alt='telegram' height='35'>](https://t.me/shashinma)⠀[<img src='https://github.com/shashinma/shashinma/blob/main/source/icloud.png' alt='icloud' height='35'>](mailto:shashinma@icloud.com)⠀[<img src='https://github.com/shashinma/shashinma/blob/main/source/vk.png' alt='vk' height='35'>](https://vk.com/shashinma)
+⠀[<img src='https://github.com/shashinma/shashinma/blob/main/source/telegram.png' alt='telegram' height='35'>](https://t.me/shashinma)⠀[<img src='https://github.com/shashinma/shashinma/blob/main/source/icloud.png' alt='icloud' height='35'>](mailto:shashinma@icloud.com)⠀[<img src='https://github.com/shashinma/shashinma/blob/main/source/vk.png' alt='vk' height='35'>](https://vk.com/shashinma)
 </br>
 
 ## Some of my GitHub stats  ⠀
