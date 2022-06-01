@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 ## About me
 - 👹 Voodoo with percussion built in. 🪘
-- 🧑🏼‍💻 I'm starting to develop a startup project  **[@CyberTechLaboratory](https://github.com/CyberTechLaboratory "CyberTechLaboratory")** together with [@HypePizza](https://github.com/HypePizza "HypePizza").
+- 🧑🏼‍💻 I'm starting to develop a startup project  **[@CyberTechLaboratory](https://github.com/CyberTechLaboratory "CyberTechLaboratory")**.
 
 ⠀⠀⠀📩 **Get in touch:**
 ⠀[<img src='https://github.com/shashinma/shashinma/blob/main/source/telegram.png' alt='telegram' height='30'>](https://t.me/shashinma)⠀[<img src='https://github.com/shashinma/shashinma/blob/main/source/icloud.png' alt='icloud' height='30'>](mailto:shashinma@icloud.com)⠀[<img src='https://github.com/shashinma/shashinma/blob/main/source/vk.png' alt='vk' height='30'>](https://vk.com/shashinma)
