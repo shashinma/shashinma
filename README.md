@@ -1,4 +1,4 @@
-# Hello there, I'm Michael! 👋 
+# Hello there, I'm Michael   👋 
 <!--
 **shashinma/shashinma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
