@@ -15,13 +15,15 @@ Here are some ideas to get you started:
 -->
 ## About me
 - 👹 Voodoo with percussion built in 🪘
-- 🧑🏼‍💻 I'm starting to develop a startup project  **[@CyberTechLaboratory](https://github.com/CyberTechLaboratory "CyberTechLaboratory")**
+- 👨🏻‍💻 I'm starting to develop a startup project  **[`@DobruiTech`](https://github.com/CyberTechLaboratory "DobruiTech")**
 
-⠀⠀⠀📩 **Get in touch:**
-⠀[<img src='https://github.com/shashinma/shashinma/blob/main/source/telegram.png' alt='telegram' height='30'>](https://t.me/shashinma)⠀[<img src='https://github.com/shashinma/shashinma/blob/main/source/icloud.png' alt='icloud' height='30'>](mailto:shashinma@icloud.com)⠀[<img src='https://github.com/shashinma/shashinma/blob/main/source/vk.png' alt='vk' height='30'>](https://vk.com/shashinma)
+⠀⠀⠀📮 **Get in touch:** 
+**[`Email`](mailto:shashinma@icloud.com "Email")** 
+**[`Telegram`](https://t.me/shashinma "Telegram")** 
+**[`VK`](https://vk.com/shashinma "VK")**
 </br>
 
-## Some of my GitHub stats  ⠀
+## Some of my GitHub stats
 <a href="https://github.com/shashinma?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shashinma&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Michael's github stats" /></a><a href="https://github.com/shashinma?tab=repositories"><a href="https://github.com/shashinma?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashinma&langs_count=8&layout=compact&hide_border=true&theme=buefy&hide=" />
 </a>
 </br>
