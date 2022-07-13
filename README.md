@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 </br>
 
 ## Some of my GitHub stats
-<a href="https://github.com/shashinma?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shashinma&show_icons=true&include_all_commits=true&hide_border=true&bg_color=#00000000" alt="Michael's github stats" /></a><a href="https://github.com/shashinma?tab=repositories"><a href="https://github.com/shashinma?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashinma&langs_count=8&layout=compact&hide_border=true&hide=" />
+<a href="https://github.com/shashinma?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shashinma&show_icons=true&include_all_commits=true&hide_border=true&bg_color=#00000000" alt="My GitHub stats" /></a><a href="https://github.com/shashinma?tab=repositories"><a href="https://github.com/shashinma?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashinma&langs_count=8&layout=compact&hide_border=true&hide=" />
 </a>
 </br>
 
