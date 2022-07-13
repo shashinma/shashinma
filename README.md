@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ##
 </a>
 
-### ⚙︎ Work in progress 
+### ⚙︎⠀Work in progress 
 
 <details>
   <summary><strong>Overview</strong></summary>
