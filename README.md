@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ##
 
 ### ★⠀Some of my GitHub stats:
-<a href="https://github.com/shashinma?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shashinma&title_color=4382e5&icon_color=db6551&text_color=757c84&bg_color=0000&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&custom_title=Account Stats"/></a><a href="https://github.com/shashinma?tab=repositories"><a href="https://github.com/shashinma?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashinma&title_color=4382e5&icon_color=db6551&text_color=757c84&bg_color=0000&custom_title=﹤/﹥ Used Languages&langs_count=8&layout=compact&hide_border=true"/>
+<a href="https://github.com/shashinma?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shashinma&title_color=4382e5&icon_color=ed9657&text_color=757c84&bg_color=0000&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&custom_title=Account Stats"/></a><a href="https://github.com/shashinma?tab=repositories"><a href="https://github.com/shashinma?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashinma&title_color=4382e5&icon_color=ed9657&text_color=757c84&bg_color=0000&custom_title=﹤/﹥ Used Languages&langs_count=8&layout=compact&hide_border=true"/>
 ##
 </a>
 
@@ -36,15 +36,15 @@ Here are some ideas to get you started:
   <summary><strong>Overview</strong></summary>
   </br>
     <a href="https://github.com/shashinma/CSEB-macOS">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shashinma&repo=CSEB-macOS&show_owner=false&title_color=4382e5&icon_color=db6551&text_color=757c84&bg_color=0000" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shashinma&repo=CSEB-macOS&show_owner=false&title_color=4382e5&icon_color=ed9657&text_color=757c84&bg_color=0000" />
     </a>⠀<a href="https://github.com/shashinma/CSEB-Windows">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shashinma&repo=CSEB-Windows&show_owner=false&title_color=4382e5&icon_color=db6551&text_color=757c84&bg_color=0000" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shashinma&repo=CSEB-Windows&show_owner=false&title_color=4382e5&icon_color=ed9657&text_color=757c84&bg_color=0000" />
     </a>
     </br>
     </br>
     <a href="https://github.com/shashinma/VoteApp">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shashinma&repo=VoteApp&show_owner=false&title_color=4382e5&icon_color=db6551&text_color=757c84&bg_color=0000" /><a href="https://github.com/shashinma/CamAI"> ⠀
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shashinma&repo=CamAI&show_owner=false&title_color=4382e5&icon_color=db6551&text_color=757c84&bg_color=0000" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shashinma&repo=VoteApp&show_owner=false&title_color=4382e5&icon_color=ed9657&text_color=757c84&bg_color=0000" /><a href="https://github.com/shashinma/CamAI"> ⠀
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shashinma&repo=CamAI&show_owner=false&title_color=4382e5&icon_color=ed9657&text_color=757c84&bg_color=0000" />
     </a>
   </br>
 </details>
