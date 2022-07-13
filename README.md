@@ -1,4 +1,4 @@
-# Hello there, I'm Michael   👋 
+# Hello there⠀👋 
 <!--
 **shashinma/shashinma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,23 +13,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## About me
-- 👹 Voodoo with percussion built in 🪘
+### ﹤¿﹥ About me
+<!-- - 👹 Voodoo with percussion built in 🪘 -->
 - 👨🏻‍💻 I'm starting to develop a startup project  **[`@DobruiTech`](https://github.com/DobruiTech "DobruiTech")**
 
-⠀⠀⠀📮 **Get in touch:** 
-**[`Email`](mailto:shashinma@icloud.com "Email")** 
-**[`Telegram`](https://t.me/shashinma "Telegram")** 
-**[`VK`](https://vk.com/shashinma "VK")**
+⠀⠀⠀📮 **Get in touch: ⠀**  ☞⠀ **[`Email`](mailto:shashinma@icloud.com "Email")**  
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀☞⠀ **[`Telegram`](https://t.me/shashinma "Telegram")**  
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀☞⠀ **[`VK`](https://vk.com/shashinma "VK")** 
 </br>
 
-## Some of my GitHub stats
-<a href="https://github.com/shashinma?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shashinma&title_color=4382e5&icon_color=724dd5&text_color=757c84&bg_color=0000&show_icons=true&include_all_commits=true&hide_border=true&custom_title=Account Stats" alt="Account Stats" /></a><a href="https://github.com/shashinma?tab=repositories"><a href="https://github.com/shashinma?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashinma&title_color=4382e5&icon_color=724dd5&text_color=757c84&bg_color=0000&langs_count=8&layout=compact&hide_border=true&" />
- 
+##
+
+### ★⠀Some of my GitHub stats
+<a href="https://github.com/shashinma?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shashinma&title_color=4382e5&icon_color=724dd5&text_color=757c84&bg_color=0000&show_icons=true&include_all_commits=true&hide_border=true&custom_title= Account Stats" alt="Account Stats" /></a><a href="https://github.com/shashinma?tab=repositories"><a href="https://github.com/shashinma?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashinma&title_color=4382e5&icon_color=724dd5&text_color=757c84&bg_color=0000&langs_count=8&layout=compact&hide_border=true&" />
+##
 </a>
-</br>
 
-## Work in progress
+### ⚙︎ Work in progress 
 
 <details>
   <summary><strong>Overview</strong></summary>
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
   </br>
 </details>
 
-
+<!--
 ## A few words about my team project | Coming soon... 😴
 <details>
   <summary><strong>Overview</strong></summary>
@@ -57,5 +57,7 @@ Here are some ideas to get you started:
   ⠀⠀[<img src='https://github.com/shashinma/shashinma/blob/main/source/CyberTechLaboratory_WhitePlastic.png' alt='github' height='170'>](https://github.com/CyberTechLaboratory) 
   
 </details>
-  
+-->
 <!--![Michael's github stats](https://github-readme-stats.vercel.app/api?username=shashinma) -->
+
+
