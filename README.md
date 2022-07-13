@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 👨🏻‍💻 I'm starting to develop a startup project  **[`@DobruiTech`](https://github.com/DobruiTech "DobruiTech")**
 
 ⠀⠀⠀📮 **Get in touch: ⠀**   ☞ **[`Email`](mailto:shashinma@icloud.com "Email")**  
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀☞ **[`Telegram`](https://t.me/shashinma "Telegram")**  
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀☞ **[`Telegram`](https://t.me/shashinma "Telegram")**  
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀☞ **[`VK`](https://vk.com/shashinma "VK")** 
 </br>
 
