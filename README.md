@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ⠀⠀⠀📮 **Get in touch: ⠀**   ☞ **[`Email`](mailto:shashinma@icloud.com "Email")**  
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀☞ **[`Telegram`](https://t.me/shashinma "Telegram")**  
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀☞ **[`VK`](https://vk.com/shashinma "VK")** 
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀☞ **[`VK`](https://vk.com/shashinma "VK")** 
 </br>
 
 ##
