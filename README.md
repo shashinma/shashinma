@@ -13,18 +13,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### ﹤¿﹥ About me:
+### Ⓐ⠀About me:
 <!-- - 👹 Voodoo with percussion built in 🪘 -->
 <!-- - 👨🏻‍💻 I'm starting to develop a startup project  **[`@DobruiTech`](https://github.com/DobruiTech "DobruiTech")** -->
 ⠀⠀⠀👨🏻‍💻 I'm starting to develop a startup project  **[`@DobruiTech`](https://github.com/DobruiTech "DobruiTech")**
 
-⠀⠀⠀📮 **Get in touch:**⠀**[`Email`](mailto:shashinma@icloud.com "Email")**  **[`Telegram`](https://t.me/shashinma "Telegram")**  **[`VK`](https://vk.com/shashinma "VK")** 
+⠀⠀⠀📮 **Get in touch:**⠀**[`Email`](mailto:shashinma@icloud.com "Email")** • **[`Telegram`](https://t.me/shashinma "Telegram")** • **[`VK`](https://vk.com/shashinma "VK")** 
 </br>
 
 ##
 
 ### ★⠀Some of my GitHub stats:
-<a href="https://github.com/shashinma?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shashinma&title_color=4382e5&icon_color=ed9657&text_color=757c84&bg_color=0000&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&custom_title=Account Stats"/></a><a href="https://github.com/shashinma?tab=repositories"><a href="https://github.com/shashinma?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashinma&title_color=4382e5&icon_color=ed9657&text_color=757c84&bg_color=0000&custom_title=﹤/﹥ Used Languages&langs_count=8&layout=compact&hide_border=true"/>
+<a href="https://github.com/shashinma?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shashinma&title_color=4382e5&icon_color=ed9657&text_color=757c84&bg_color=0000&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&custom_title=✎⠀Account Stats"/></a><a href="https://github.com/shashinma?tab=repositories"><a href="https://github.com/shashinma?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashinma&title_color=4382e5&icon_color=ed9657&text_color=757c84&bg_color=0000&custom_title=﹤/﹥ Used Languages&langs_count=8&layout=compact&hide_border=true"/>
 ##
 </a>
 
