@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   </br>
     <a href="https://github.com/shashinma/DLP-WindowsOS">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shashinma&repo=DLP-WindowsOS&show_owner=false&title_color=4382e5&icon_color=ed9657&text_color=757c84&bg_color=0000" />
-    </a>⠀<a href="https://github.com/shashinma/DLP-WindowsOS">
+    </a>⠀<a href="https://github.com/shashinma/ESP-Dumpster">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shashinma&repo=ESP-Dumpster&show_owner=false&title_color=4382e5&icon_color=ed9657&text_color=757c84&bg_color=0000" />
     </a>
     </br>
