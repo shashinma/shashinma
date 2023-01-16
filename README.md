@@ -33,16 +33,16 @@ Here are some ideas to get you started:
   <summary><strong>Overview</strong></summary>
   </br>
     <a href="https://github.com/shashinma/DLP-Windows">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shashinma&repo=DLP-Windows&show_owner=false&title_color=4382e5&icon_color=ed9657&text_color=757c84&bg_color=0000" />
+      <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=shashinma&repo=DLP-Windows&show_owner=false&title_color=4382e5&icon_color=ed9657&text_color=757c84&bg_color=0000" />
     </a>⠀<a href="https://github.com/shashinma/ESP-Dumpster">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shashinma&repo=ESP-Dumpster&show_owner=false&title_color=4382e5&icon_color=ed9657&text_color=757c84&bg_color=0000" />
+      <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=shashinma&repo=ESP-Dumpster&show_owner=false&title_color=4382e5&icon_color=ed9657&text_color=757c84&bg_color=0000" />
     </a>
     </br>
     </br>
      <a href="https://github.com/shashinma/CSEB-macOS">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shashinma&repo=CSEB-macOS&show_owner=false&title_color=4382e5&icon_color=ed9657&text_color=757c84&bg_color=0000" />
+      <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=shashinma&repo=CSEB-macOS&show_owner=false&title_color=4382e5&icon_color=ed9657&text_color=757c84&bg_color=0000" />
     </a>⠀<a href="https://github.com/shashinma/CSEB-Windows">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shashinma&repo=CSEB-Windows&show_owner=false&title_color=4382e5&icon_color=ed9657&text_color=757c84&bg_color=0000" />
+      <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=shashinma&repo=CSEB-Windows&show_owner=false&title_color=4382e5&icon_color=ed9657&text_color=757c84&bg_color=0000" />
     </a>
   </br>
 </details>
