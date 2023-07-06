@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 <details>
   <summary><strong>Overview</strong></summary>
   </br>
-    <a href="https://github.com/shashinma/DLP-Windows">
-      <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=shashinma&repo=DLP-Windows&show_owner=false&title_color=4382e5&icon_color=ed9657&text_color=757c84&bg_color=0000" />
+    <a href="https://github.com/shashinma/VoteApp">
+      <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=shashinma&repo=VoteApp&show_owner=false&title_color=4382e5&icon_color=ed9657&text_color=757c84&bg_color=0000" />
     </a>⠀<a href="https://github.com/shashinma/ESP-Dumpster">
       <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=shashinma&repo=ESP-Dumpster&show_owner=false&title_color=4382e5&icon_color=ed9657&text_color=757c84&bg_color=0000" />
     </a>
