@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ### Ⓐ⠀About me:
 <!-- - 👹 Voodoo with percussion built in 🪘 -->
 <!-- - 👨🏻‍💻 I'm starting to develop a startup project  **[`@ZTSecurity`](https://github.com/ZTSecurity "ZTSecurity")** -->
-⠀⠀⠀👨🏻‍💻 <!-- I'm starting to develop a startup project -->  <!-- **[`@ZTSecurity`](https://github.com/ZTSecurity "ZTSecurity")** -->
+⠀⠀⠀<!-- 👨🏻‍💻 I'm starting to develop a startup project -->  <!-- **[`@ZTSecurity`](https://github.com/ZTSecurity "ZTSecurity")** -->
 
 ⠀⠀⠀📮 **Get in touch:**⠀**[`Email`](mailto:shashinma@icloud.com "Email")**  **[`Telegram`](https://t.me/shashinma "Telegram")**  **[`VK`](https://vk.com/shashinma "VK")** 
 </br>
@@ -23,11 +23,9 @@ Here are some ideas to get you started:
 ##
 
 ### ★⠀Some of my GitHub stats:
-<a href="https://github.com/shashinma?tab=repositories"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shashinma&title_color=4382e5&icon_color=ed9657&text_color=757c84&bg_color=0000&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&custom_title=✎⠀Account⠀Stats"/></a><a href="https://github.com/shashinma?tab=repositories"><a href="https://github.com/shashinma?tab=repositories"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=shashinma&title_color=4382e5&icon_color=ed9657&text_color=757c84&bg_color=0000&custom_title=﹤/﹥⠀Used⠀Languages&langs_count=8&layout=compact&hide_border=true"/>
-##
-</a>
-
-### ⚙︎⠀Work in progress:
+<a href="https://github.com/shashinma?tab=repositories"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shashinma&title_color=4382e5&icon_color=ed9657&text_color=757c84&bg_color=0000&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&custom_title=✎⠀Account⠀Stats"/></a><a href="https://github.com/shashinma?tab=repositories"><a href="https://github.com/shashinma?tab=repositories"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=shashinma&title_color=4382e5&icon_color=ed9657&text_color=757c84&bg_color=0000&custom_title=﹤/﹥⠀Used⠀Languages&langs_count=8&layout=compact&hide_border=true"/></a>
+<!--
+ ### ⚙︎⠀Work in progress:
 
 <details>
   <summary><strong>Overview</strong></summary>
@@ -45,7 +43,7 @@ Here are some ideas to get you started:
       <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=shashinma&repo=CSEB-Windows&show_owner=false&title_color=4382e5&icon_color=ed9657&text_color=757c84&bg_color=0000" />
     </a>
   </br>
-</details>
+</details>-->
 
 <!--
 ## A few words about my team project | Coming soon... 😴
